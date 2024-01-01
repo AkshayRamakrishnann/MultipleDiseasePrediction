@@ -21,3 +21,28 @@ Predict the presence of Parkinson's disease by providing voice-related features,
 1. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
+
+2. **Run the Application:**
+   ```bash
+   streamlit run your_app_file.py
+
+3. **Access the Application:**
+   Open your web browser and visit the provided address.
+
+### Usage
+Click on the "Introduction" button to understand the application's purpose.
+Navigate to specific prediction pages for diabetes, heart disease, and Parkinson's.
+Input relevant health details and click on the prediction button to receive results.
+
+### Project Structure
+your_app_file.py: Main Python script containing Streamlit application code.
+models/: Directory for saved machine learning models (e.g., diabetes_model.sav, heart_disease_model.sav, parkinsons_model.sav).
+requirements.txt: List of required Python packages.
+
+### Contributing
+Contributions, bug reports, and suggestions are welcome! Open an issue or create a pull request to contribute to the project.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
