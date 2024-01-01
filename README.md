@@ -47,6 +47,13 @@ your_app_file.py: Main Python script containing Streamlit application code.
 models/: Directory for saved machine learning models (e.g., diabetes_model.sav, heart_disease_model.sav, parkinsons_model.sav).
 requirements.txt: List of required Python packages.
 
+### Output Screenshots
+
+![ml2](https://github.com/AkshayRamakrishnann/ML_For_Dummies/assets/111365771/41062430-e2f0-4460-be57-c4b347b4d07d)
+
+![mld](https://github.com/AkshayRamakrishnann/ML_For_Dummies/assets/111365771/1f65666f-9f9e-404c-a3ae-9a721674e819)
+
+
 ### Contributing
 Contributions, bug reports, and suggestions are welcome! Open an issue or create a pull request to contribute to the project.
 
